@@ -1,7 +1,7 @@
 # sudo apt-get install g++
 # sudo apt-get install mc ?? for mcedit -- do not needed
 
-TARGET = webtest.so
+TARGET = WebTest.so
 CC = g++
 CFLAGS = -g -Wall -fPIC -m64 
 
